@@ -1,0 +1,5 @@
+{
+  "name": "ResearchData Extractor",
+  "description": "A specialized research tool for extracting structured data from scientific article PDFs using Gemini 1.5 Pro.",
+  "requestFramePermissions": []
+}
